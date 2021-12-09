@@ -7,8 +7,9 @@ Simple Jercy Rest Project to implement the CURD Operations On Student table
 This repository Contains a my first Jercy Rest Project.
 # Tool Used: 
   1. Eclipse IDE
-  2. MySql Database 
-  3. Apache Tomcat Webserver
-  4. Browser Chrome/Firefox
-  5. Os: Linux
-  6. Postman  
+  2. Java
+  3. MySql Database 
+  4. Apache Tomcat Webserver
+  5. Browser Chrome/Firefox
+  6. Os: Linux
+  7. Postman  
