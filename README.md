@@ -1,7 +1,7 @@
 # Author:
 <a href="https://github.com/dipak-pawar131199">Dipak Pawar</a>
 # CURD-Operations:
-Simple Jercy Rest Project to implement the CURD Operations For Student table
+Simple Jercy Rest Project to implement the CURD Operations On Student table
 
 # Descripation :
 This repository Contains a my first Jercy Rest Project.
